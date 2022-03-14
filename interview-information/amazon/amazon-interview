@@ -1,0 +1,71 @@
+---------------- Questions to ask/answer the normal recuruiter ----------------
+
+Question 1:
+Why did you decide to leave citigroup? / Why did you decide to want to work at amazon security aws?
+
+Answer 1:
+- During college I spent most of my time working a machine learning research 
+  job for the university funded by the department of defence and being 
+  active in the cyber security club.
+- Research project project jaguar
+       two publications 
+       failing and not falling: 
+
+
+
+       1: A hybrid decision tree neural network model for large scale classfiication problems
+       2: data enabled classification learning of aircraft accidents and incidents
+
+
+
+
+
+
+
+
+
+
+       failing and not falling:
+- joined the fintech industry with citigroup
+  - After being with citigroup for almost a year I realiezed that I am not enjoying the finance industry as much as
+  I thught and decided to try to apply with a company that is more centralized around technology.
+- This is what made me decide to apply to amazon since amazon is known for its so I
+  sent off a few applications at the locations for *fix this(denver and seattle)*.
+- When I recieved your message I was excited since I though that this position would
+  be perfect for me since it is a software developer position for aws security.
+
+--------------- Questions to answer from the engineers ---------------
+
+Question 2:
+- What was a difficult time that you had that during coding you were able to get yourself through and solve?
+(Talk about the keychain encryption program with the problem that I was having with recursively going through the directory structure and encrypting and saving the keys into a keychain.)
+
+Question 3:
+- What was a time that you showed leadership during work?
+(Mention the customer somehow in this one)
+
+I noticed how long it took every deployment day in each month so I creted a udeploy job that simplifies the deployment process for the whole team by around an hour. Before to deploy all of the code someone had to manually select the process, then select the version, and select the release number which takes a long time and was actually very error prone to human error. The udeploy application process that I created simpolified the aplication process by makig it so that you only have to press one button to deploy eveyrthing with the most up to date versions for each process that was being deployed.
+
+
+---------------- Questions to ask the engineers ----------------
+
+Questions:
+- What is your most and least favorite thing about the job?
+- What is a typical workday look like for you?
+- How close are the people in project teams usually with each other? Because I feel like I work better when I am more connected to my coworkers. 
+- What did you find most surprising after you started working here?
+- How easy is it to travel/move-around within the company like transfering to other offices?
+- What is the biggest challenge for working for this company in your opinion. 
+
+
+
+
+--------------------------------------------------post recruiter phone call---------------------------------------------------
+Round Table Meeting
+
+Zoom link:
+https://zoom.us/j/95936048592?pwd=TnMydm5nRmxHQ0FOWjBCR3M3K1NSUT09
+Mar 14, 2022
+5:00pm – 6:00pm EDT
+SFO Roundtable- AWS Security SDE/Embedded Info Session
+
